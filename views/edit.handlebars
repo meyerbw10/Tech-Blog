@@ -1,0 +1,22 @@
+<section class="card">
+  <div>
+    <h2>
+      Edit Post
+    </h2>
+  </div>
+  <form id="edit-post">
+    <input type="hidden" name="post-id" value="{{post.id}}"></input>
+
+    <label for="post-title">Title</label>
+    <textarea name="post-title">{{post.title}}</textarea>
+
+     <label for="post-content">Content</label>
+    <textarea name="post-content">{{post.content}}</textarea>
+
+    <button type="submit">Update</button>
+
+    <button id="delete">Delete</button>
+  </form>
+</section>
+
+<script src="/js/edit.js"></script>

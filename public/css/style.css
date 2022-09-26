@@ -31,7 +31,7 @@ a:visited {
 header {
   padding: 40px;
   text-align: center;
-  background: var(--primary);
+  background:  #4dd091;
   color: var(--light);
 }
 
@@ -51,7 +51,8 @@ aside {
 
 nav {
   display: flex;
-  background-color: var(--secondary);
+  background-color: #ff6a83;
+
 }
 
 nav a {
@@ -129,11 +130,11 @@ img {
 }
 
 .card header {
-  color: var(--light);
+  color: #ffec59;
   font-weight: bold;
   text-transform: uppercase;
   margin: 0;
-  background-color: var(--tertiary);
+  background-color: #74737A;
   padding: 0.625rem;
   border-radius: calc(0.18rem - 1px) calc(0.18rem - 1px) 0 0;
 }
@@ -142,6 +143,8 @@ img {
   font-size: 1.4rem;
   text-align: center;
   font-weight: bold;
+  background-color: #ffa23a;
+  color: white;
 }
 
 .gallery-name {
