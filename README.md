@@ -31,9 +31,8 @@ Link to deployed website: https://github.com/meyerbw10/Tech-Blog
 
 ### Usage
 
-![](./public/images/05-beach-sunrise.jpg)
+![](./public/images/Screen%20Shot%202022-09-27%20at%205.33.51%20PM.png)
 
-![](./public/images/07-autumn-mountains.jpg)
 
 ---
 
